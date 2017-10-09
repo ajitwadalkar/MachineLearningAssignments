@@ -1,0 +1,10 @@
+W found by symbolic variables method: 
+	w0: -3.895781 
+	w1:  1.193034
+W found by gradient descent method: 
+	w0: -3.630291 
+	w1:  1.166362 
+
+Using gradient descent:  
+	For population = 35,000, we predict a profit of 4519.767868
+	For population = 70,000, we predict a profit of 45342.450129
